@@ -1,0 +1,16 @@
+I'd like to start with an apology in regards to the timing of this repo (specifically how late into the unit this document was created). 
+
+
+==========================================================================================================================================
+
+                                                        Week 1
+First time using a bread board. My partner left half way through. I cleared the breadbord, bent the micro controller pins back into 
+position, and re-wired the breadboard as instructed by the wiring diagram.
+
+==========================================================================================================================================
+  
+                                                         Week 2
+This period was spent understanding the fundementals of the arduino. I downloaded the IDE, the two PB programs, the manual and the CH341SER 
+patch. Greg helped me install the CH341SER driver as well as how to identify the COMM port, and how to set the proper arduino type in the 
+IDE. I then imported the two PB programs into the IDE. My 
+                                          
