@@ -12,5 +12,29 @@ position, and re-wired the breadboard as instructed by the wiring diagram.
                                                          Week 2
 This period was spent understanding the fundementals of the arduino. I downloaded the IDE, the two PB programs, the manual and the CH341SER 
 patch. Greg helped me install the CH341SER driver as well as how to identify the COMM port, and how to set the proper arduino type in the 
-IDE. I then imported the two PB programs into the IDE. My 
+IDE. I then imported the two PB programs into the IDE. My partener was also absent for this session.
+
+===========================================================================================================================================
+
+                                                         Week 3
+During this session I got the first PB program to work. I then tried to get the program to "work like a light switch" as instructed by Mr.O.
+I couldn't under stand the manual and unsucsessfully attmpted to change the program through switching the places of variables. After 20-30
+minutes I determined the tast to be futile and assisted other groups in their wiring and understanding of the wiring process. During this 
+session I accomplished nothing. My partner was also absent for this session.
+
+===========================================================================================================================================
+
+                                                          Week 4
+ Greg explained how the power outputs through pins in the micro controller. Before this I did not understand the function of the micro
+ controller on the breadboard. A moment of clarity followed soon thereafter as I began to understanding the program. After a few quick
+ searches in the handbook, and thirty seconds of code I "fixed" the program, inversing its function. I then opened the PB-TOGGLE program and
+ did not understand what had to be fixed. I spent the rest of the period seeing if any other groups needed help. My partner was also absent
+ for this session.
+ 
+ ===========================================================================================================================================
+ 
+                                                           Week 5
+ My partner is finally here. I attemped to catch him up by showing him the wiring diagram, the location of the IDE and handbook and explaining
+ the function of the pins. While he was exploring the workings of the project I created this repo and logged my progress. I then invited him
+ to the repo.
                                           
